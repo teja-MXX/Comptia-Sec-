@@ -24,9 +24,4 @@
 
 
 
-8. Cryptography/
-
-
-
-
 
