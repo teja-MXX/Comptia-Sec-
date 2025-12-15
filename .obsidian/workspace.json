@@ -41,16 +41,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Third Party Vendor Risks/94. Contracts and Agreements.md",
+                "file": "11. Governance and Compliance/103. Non-compliance Consequences.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "94. Contracts and Agreements"
+              "title": "103. Non-compliance Consequences"
+            }
+          },
+          {
+            "id": "e53c8c180f5d7f15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. Asset and change management/106. Mobile Asset Deployments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "106. Mobile Asset Deployments"
+            }
+          },
+          {
+            "id": "4dce4f92cd5a2d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11. Governance and Compliance/100. Procedures.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "100. Procedures"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Third Party Vendor Risks/94. Contracts and Agreements.md",
+                "file": "12. Asset and change management/106. Mobile Asset Deployments.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 94. Contracts and Agreements"
+              "title": "Outline of 106. Mobile Asset Deployments"
             }
           }
         ],
@@ -198,42 +226,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "582e378b7cc057c7",
+  "active": "e53c8c180f5d7f15",
   "lastOpenFiles": [
-    "10. Third Party Vendor Risks/Third Party Vendor Risks - Index.md",
+    "12. Asset and change management/Asset and Change Management - Index.md",
+    "12. Asset and change management/106. Mobile Asset Deployments.md",
+    "106. Mobile Asset Deployments.md",
+    "12. Asset and change management/105. Acquisition and Procurement.md",
+    "Index.md",
+    "11. Governance and Compliance/103. Non-compliance Consequences.md",
+    "12. Asset and change management",
+    "11. Governance and Compliance/Governance and Compliance - Index.md",
+    "11. Governance and Compliance/102. Compliance.md",
+    "11. Governance and Compliance/101. Governance Considerations.md",
+    "11. Governance and Compliance/100. Procedures.md",
     "10. Third Party Vendor Risks/94. Contracts and Agreements.md",
+    "11. Governance and Compliance/99. Standards.md",
+    "11. Governance and Compliance/98. Policies.md",
+    "11. Governance and Compliance/97. Governance Structures.md",
+    "11. Governance and Compliance/96. Governance.md",
+    "11. Governance and Compliance/95. Governance and Compliance.md",
+    "11. Governance and Compliance",
+    "10. Third Party Vendor Risks/Third Party Vendor Risks - Index.md",
     "10. Third Party Vendor Risks/93. Vendor Selection and Monitoring.md",
     "10. Third Party Vendor Risks/92. Vendor Assessment.md",
     "0. Third Party Vendor Risks/93. Vendor Selection and Monitoring.md",
     "0. Third Party Vendor Risks",
     "10. Third Party Vendor Risks/91. Supply Chain Risks 2.md",
     "10. Third Party Vendor Risks/90. Supply Chain Risks.md",
-    "Index.md",
     "10. Third Party Vendor Risks/89. Third-party Vendor Risks.md",
     "9. Risk Management/Risk Management - Index.md",
     "9. Risk Management/88. Risk Monitoring and Reporting.md",
     "10. Third Party Vendor Risks",
     "9. Risk Management/87. Risk Management Strategies.md",
-    "9. Risk Management/86. Quantitative Risk Analysis.md",
-    "9. Risk Management/85. Qualitative Risk Analysis.md",
-    "9. Risk Management/84. Risk Register.md",
-    "9. Risk Management/83. Risk Identification.md",
-    "9. Risk Management/82. Risk Assessment Frequency.md",
-    "9. Risk Management/81. Risk Management.md",
-    "9. Risk Management/Risk Identification.md",
-    "8. Cryptography/Cryptography - Index.md",
-    "8. Cryptography/4. Asymmetric Algorithm.md",
-    "8. Cryptography/3. Symmetric Algorithm.md",
-    "8. Cryptography/2. Symmetric vs Asymmentric.md",
-    "README.md",
-    "8. Cryptography/13. Cryptographic Attacks.md",
     "9. Risk Management",
-    "8. Cryptography/12. Obfuscation.md",
     "1. Cryptography",
     "8. Cryptography",
     "7. Data Protection",
     "6. Malware",
-    "5. Social Engineering",
-    "2. Fundamentals of Security"
+    "5. Social Engineering"
   ]
 }
